@@ -1,0 +1,108 @@
+﻿{
+  "owner": {
+    "name": "Talha Ahmed",
+    "role": "Flutter Developer",
+    "bio": "Your go-to Flutter magician, with a commitment to excellence and a passion for pushing boundaries.",
+    "email": "ta028889@gmail.com",
+    "resumeUrl": "https://drive.google.com/file/d/15IVBoyF2tekkbXgor3d7hf4DTR6I5M0G/view?usp=sharing"
+  },
+  "startup": {
+    "name": "Spoglock Labs",
+    "tagline": "What your startup does in one line.",
+    "image": "assets/images/company-logo.png",
+    "url": "https://www.spoglock.com"
+  },
+  "socials": [
+    {
+      "label": "GitHub",
+      "url": "https://github.com/talhaahmed15"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/talhaahmed15"
+    }
+  ],
+  "about": {
+    "text": "I enjoy turning ideas into production-ready experiences with clean architecture, accessible interfaces, and measurable product outcomes.",
+    "skills": [
+      "Flutter",
+      "React",
+      "Supabase",
+      "Firebase",
+      "REST APIs",
+      "SQL",
+      "PostgreSQL",
+      "CI/CD Pipelines"
+    ]
+  },
+  "projects": [
+    {
+      "title": "Academy App",
+      "year": "2023",
+      "description": "A mobile app for admins of a learning academy to manage attendance, quizes, students, and payments efficiently.",
+      "tags": ["Mobile App", "Flutter", "Firebase"],
+      "image": "assets/images/projects/academy_app/Academy.png",
+      "galleryImages": [
+        "assets/images/projects/academy_app/Academy.png"
+      ],
+      "repoUrl": "https://github.com/talhaahmed15/Academy-Project.git"
+    },
+    {
+      "title": "Food App",
+      "year": "2024",
+      "description": "A food ordering app UI with responsive browsing and ordering experience.",
+      "tags": ["Mobile App", "Flutter", "UI/UX"],
+      "image": "assets/images/projects/food_app/Cheezious App.png",
+      "galleryImages": [
+        "assets/images/projects/food_app/Cheezious App.png"
+      ],
+      "videos": [
+        "assets/images/projects/food_app/Blockious.mp4"
+      ]
+    },
+    {
+      "title": "Inventory Management",
+      "year": "2024",
+      "description": "Inventory and cashier management solution with store, products, and dashboard workflows.",
+      "tags": ["Flutter", "Business", "Admin"],
+      "image": "assets/images/projects/inventory_management/Dashboard.png",
+      "galleryImages": [
+        "assets/images/projects/inventory_management/Dashboard.png",
+        "assets/images/projects/inventory_management/Login Screen.png",
+        "assets/images/projects/inventory_management/Products Screen.png",
+        "assets/images/projects/inventory_management/Stores Screen.png",
+        "assets/images/projects/inventory_management/Cashier View.png"
+      ]
+    },
+    {
+      "title": "Medical App",
+      "year": "2024",
+      "description": "Healthcare app interface focused on clear patient-facing flows.",
+      "tags": ["Flutter", "Healthcare", "Mobile App"],
+      "image": "assets/images/projects/medical_app/Medx 1.png",
+      "galleryImages": [
+        "assets/images/projects/medical_app/Medx 1.png",
+        "assets/images/projects/medical_app/Medx 2.png"
+      ]
+    },
+    {
+      "title": "Oxigo",
+      "year": "2024",
+      "description": "Ride booking experience with search, selection, booking, and profile management screens.",
+      "tags": ["Flutter", "Transport", "Mobile App"],
+      "image": "assets/images/projects/oxigo/Home Page.png",
+      "galleryImages": [
+        "assets/images/projects/oxigo/Home Page.png",
+        "assets/images/projects/oxigo/Search Ride.png",
+        "assets/images/projects/oxigo/Search Results.png",
+        "assets/images/projects/oxigo/Select Ride Screen.png",
+        "assets/images/projects/oxigo/Booking Confirmation Screen.png",
+        "assets/images/projects/oxigo/Details Screen.png",
+        "assets/images/projects/oxigo/Add Vehicle.png",
+        "assets/images/projects/oxigo/My Profile.png",
+        "assets/images/projects/oxigo/Signup.png"
+      ]
+    }
+  ],
+  "lastUpdated": "February 2026"
+}

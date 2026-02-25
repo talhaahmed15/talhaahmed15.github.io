@@ -1,0 +1,42 @@
+name: my_portfolio
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.10.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  url_launcher: ^6.3.2
+  video_player: ^2.9.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/data/
+    - assets/images/
+    - assets/images/projects/academy_app/
+    - assets/images/projects/food_app/
+    - assets/images/projects/inventory_management/
+    - assets/images/projects/medical_app/
+    - assets/images/projects/oxigo/
+  fonts:
+    - family: SegoeUI
+      fonts:
+        - asset: assets/fonts/Segoe UI.ttf
+          weight: 400
+        - asset: assets/fonts/Segoe UI Italic.ttf
+          weight: 400
+          style: italic
+        - asset: assets/fonts/Segoe UI Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Segoe UI Bold Italic.ttf
+          weight: 700
+          style: italic
