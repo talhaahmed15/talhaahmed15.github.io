@@ -25,7 +25,7 @@ jobs:
           channel: stable
 
       - run: flutter pub get
-      - run: flutter build web --release --base-href /My-Portfolio/
+      - run: flutter build web --release --base-href /talhaahmed15.github.io/
 
       - uses: actions/upload-pages-artifact@v3
         with:
